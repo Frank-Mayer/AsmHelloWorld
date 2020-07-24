@@ -1,3 +1,4 @@
 ex1
 *.o
 syscall.h
+.DS_Store
